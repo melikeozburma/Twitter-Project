@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Twitter Project", "Twitter Project\Twitter Project.vcxproj", "{18BF5D69-0632-487E-81E3-B87EDB5910DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18BF5D69-0632-487E-81E3-B87EDB5910DC}.Debug|x64.ActiveCfg = Debug|x64
+		{18BF5D69-0632-487E-81E3-B87EDB5910DC}.Debug|x64.Build.0 = Debug|x64
+		{18BF5D69-0632-487E-81E3-B87EDB5910DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{18BF5D69-0632-487E-81E3-B87EDB5910DC}.Debug|x86.Build.0 = Debug|Win32
+		{18BF5D69-0632-487E-81E3-B87EDB5910DC}.Release|x64.ActiveCfg = Release|x64
+		{18BF5D69-0632-487E-81E3-B87EDB5910DC}.Release|x64.Build.0 = Release|x64
+		{18BF5D69-0632-487E-81E3-B87EDB5910DC}.Release|x86.ActiveCfg = Release|Win32
+		{18BF5D69-0632-487E-81E3-B87EDB5910DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5730F357-5A02-4970-A7DD-7AD15AE13F2D}
+	EndGlobalSection
+EndGlobal
